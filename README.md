@@ -10,8 +10,7 @@ https://miro.com/app/board/uXjVILVzyIg=/
 https://miro.com/app/board/uXjVI6HRUPQ=/?share_link_id=348544304216
 
 # Model Architecture
-
-
+https://miro.com/app/board/uXjVIGxKcv4=/
 
 # Colab Notebook (Data Cleaning and Preprocessing)
 https://colab.research.google.com/drive/1sI1Kt3-k4kAo0KvpEnLQmrAv9JVp6gyh
