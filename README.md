@@ -6,7 +6,16 @@ https://miro.com/app/board/uXjVILVx72A=/
 # Project Design
 https://miro.com/app/board/uXjVILVzyIg=/
 
-# Colab Notebook (Data Cleaning and Preprocessing)
-https://colab.research.google.com/drive/1elSwfzfWW3wS9_caj8LfvLmhyXQD6nco
+# Product Backlog
+https://miro.com/app/board/uXjVI6HRUPQ=/?share_link_id=348544304216
 
-https://colab.research.google.com/drive/1_tvciCkzi3ckYG9l_VwVUScepATrOMIZ
+# Model Architecture
+
+
+
+# Colab Notebook (Data Cleaning and Preprocessing)
+https://colab.research.google.com/drive/1sI1Kt3-k4kAo0KvpEnLQmrAv9JVp6gyh
+
+# Exploratory Data Analysis
+https://colab.research.google.com/drive/1_9HUD60ci24ileZm-bOjKiNK-aiMGn4z
+
