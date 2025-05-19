@@ -20,7 +20,7 @@ st.set_page_config(page_title='AQI Prediction Dashboard', page_icon='🌆', layo
 # --- Load dataset and preprocess globally ---
 @st.cache_data(show_spinner=False)
 def load_and_prepare_data():
-    df = pd.read_excel('combined_AQI.xlsx')
+    df = pd.read_excel('WEEK 7 & 8/combined_AQI.xlsx')
     df['date'] = pd.to_datetime(df['date'])
     df['month'] = df['date'].dt.month
     df['day'] = df['date'].dt.day
