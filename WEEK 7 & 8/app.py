@@ -10,10 +10,6 @@ from io import BytesIO
 from sklearn.preprocessing import MinMaxScaler, OneHotEncoder
 import plotly.graph_objects as go
 
-from keras.models import load_model
-from keras.initializers import Orthogonal
-
-
 # --- Constants ---
 SEQ_LENGTH = 30
 PRED_LENGTH = 60
@@ -55,6 +51,7 @@ df, city_encoder, weekday_encoder, scaler = load_and_prepare_data()
 
 # --- Load trained model ---
 model = load_model('aqi_lstm_model.keras', custom_objects={'Orthogonal': Orthogonal})
+
 
 # --- Weather API config ---
 API_KEY = os.getenv('OPENWEATHER_API_KEY') or '79bf52094041ceda27f136d5dcd656f5'
