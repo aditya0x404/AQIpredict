@@ -50,7 +50,7 @@ def load_and_prepare_data():
 df, city_encoder, weekday_encoder, scaler = load_and_prepare_data()
 
 # --- Load trained model ---
-model = load_model('aqi_lstm_model.keras', custom_objects={'Orthogonal': Orthogonal})
+model = load_model('WEEK 7 & 8/aqi_lstm_model.keras', custom_objects={'Orthogonal': Orthogonal})
 
 
 # --- Weather API config ---
